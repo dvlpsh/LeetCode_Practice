@@ -1,4 +1,4 @@
-# LeeCode_Practice
+# LeetCode_Practice
 Links to problems solved and interesting resources/hints used for their solutions.
 Additionally problems i found tricky and solutions to them.
 
@@ -6,6 +6,7 @@ Additionally problems i found tricky and solutions to them.
 ## Solved Problems (check folder name same as problem name)
 [Search in 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
+[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
 
 
 
