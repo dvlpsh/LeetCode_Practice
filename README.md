@@ -10,7 +10,7 @@ Additionally problems i found tricky and solutions to them.
 
 
 
-### Leetcode April Challenge
+### Leetcode Challenge April
 Resources:
 [Errichto's playlist](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS)
 
